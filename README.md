@@ -3,16 +3,17 @@
 - 🔥 Full Stack Developer
 - 🔭 Atuamente trabalho utilizando as Stacks: Java, Javascript, Typescript e React js.
 - 🌱 Estudando Typescript, Java Spring, ReactJS
-- 😄 Pronouns: ele/dele
+- 🤓 Pronouns: ele/dele
 
-#### Sou aficionado por tecnologia, gosto de saber como as coisas funcionam e da maneira como se conectam, principalmente na programação, tanto no Backend como no Frontend.
+#### 🤖 Sou aficionado por tecnologia, gosto de saber como as coisas funcionam e da maneira como se conectam, principalmente na programação, tanto no Backend como no Frontend.
 
 ## ⚙️ GitHub Analytics
 
 <div>
   <a href="">
-  <img height="530em" src="https://github-readme-stats.vercel.app/api?username=andresgois&count_private=true&show_icons=true&theme=radical" />
-  <img height="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresgois&layout=compact&theme=radical" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=andresgois&count_private=true&show_icons=true&theme=radical" />
+
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresgois&layout=compact&theme=radical" />
 </div>
 
 ## 🛠 Tech Stack
@@ -36,23 +37,23 @@
 ## ✨ Main repositories
 
 <div>
-<a href="https://github.com/andresgois/Ignite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andresgois&repo=Ignite&show_icons=true&theme=radical" />
+<a  href="https://github.com/andresgois/Ignite">
+  <img align="center" width="280em" src="https://github-readme-stats.vercel.app/api/pin/?username=andresgois&repo=Ignite&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/andresgois/tutorials">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andresgois&repo=tutorials&show_icons=true&theme=radical" />
+  <img align="center" width="280em" src="https://github-readme-stats.vercel.app/api/pin/?username=andresgois&repo=tutorials&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/andresgois/dtmoney">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andresgois&repo=dtmoney&show_icons=true&theme=radical" />
+  <img align="center" width="280em" src="https://github-readme-stats.vercel.app/api/pin/?username=andresgois&repo=dtmoney&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/andresgois/Product-list">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andresgois&repo=Product-list&show_icons=true&theme=radical" />
+  <img align="center" width="280em" src="https://github-readme-stats.vercel.app/api/pin/?username=andresgois&repo=Product-list&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/andresgois/phrases-of-the-day-APP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andresgois&repo=phrases-of-the-day-APP&show_icons=true&theme=radical" />
+  <img align="center" width="280em" src="https://github-readme-stats.vercel.app/api/pin/?username=andresgois&repo=phrases-of-the-day-APP&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/andresgois/my-java-guide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andresgois&repo=my-java-guide&show_icons=true&theme=radical" />
+  <img align="center" width="280em" src="https://github-readme-stats.vercel.app/api/pin/?username=andresgois&repo=my-java-guide&show_icons=true&theme=radical" />
 </a>
 </div>
   
@@ -63,8 +64,6 @@
   <a href="https://br.linkedin.com/in/andresgois3?trk=people-guest_people_search-card">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
-##
 
 <!--
 **andresgois/andresgois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
